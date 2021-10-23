@@ -1,11 +1,11 @@
-# @egoist/prettier-config
+# @2nthony/prettier-config
 
 > My personal [Prettier](https://prettier.io/) config.
 
 ## Install
 
 ```bash
-yarn add @egoist/prettier-config --dev
+yarn add @2nthony/prettier-config --dev
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ In `package.json`:
 
 ```json
 {
-  "prettier": "@egoist/prettier-config"
+  "prettier": "@2nthony/prettier-config"
 }
 ```
 
